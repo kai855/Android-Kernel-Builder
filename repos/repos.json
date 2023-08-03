@@ -1,6 +1,6 @@
 [{
   "kernelSource": {
-    "name": "GDSTK-xiaomi11",
+    "name": "GDSTK-xiaomi10S",
     "repo": "https://github.com/kai855/Xiaomi_Kernel_OpenSource",
     "branch": "alioth-r-oss",
     "device": "Thyme",
