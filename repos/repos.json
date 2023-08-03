@@ -39,6 +39,6 @@
     "use": true,
     "release": true,
     "repo": "https://github.com/easterNday/AnyKernel3/",
-    "branch": "VENUS"
+    "branch": "master"
   }
 }]
