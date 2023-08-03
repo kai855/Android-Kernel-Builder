@@ -7,8 +7,7 @@
     "defconfig": "thyme_user_defconfig"
   },
   "withKernelSU": true,
-  "toolchains": [
-    {
+  "toolchains": [ 
       {
         "repo": "https://android.googlesource.com/platform/prebuilts/gas/linux-x86",
         "branch": "master",
@@ -21,7 +20,6 @@
         "name": "clang",
         "binPath": ["bin"]
       }
-    }
   ],
   "ccache": false,
   "params": {
