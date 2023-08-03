@@ -1,7 +1,7 @@
 [{
   "kernelSource": {
     "name": "VENUS-xiaomi11",
-    "repo": "https://github.com/tanz3/kernel_xiaomi_sm8350-miui",
+    "repo": "https://github.com/kai855/kernel_xiaomi_sm8350-miui",
     "branch": "miui-t",
     "device": "VENUS",
     "defconfig": "venus_defconfig"
