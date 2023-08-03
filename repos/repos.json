@@ -6,7 +6,7 @@
     "device": "VENUS",
     "defconfig": "venus_defconfig"
   },
-  "withKernelSU": false,
+  "withKernelSU": true,
   "toolchains": [
     {
       "repo": "https://github.com/kdrag0n/proton-clang",
