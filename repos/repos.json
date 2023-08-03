@@ -4,7 +4,7 @@
     "repo": "https://github.com/tanz3/kernel_xiaomi_sm8350-miui",
     "branch": "miui-t",
     "device": "VENUS",
-    "defconfig": "VENUS"
+    "defconfig": "venus_defconfig"
   },
   "withKernelSU": false,
   "toolchains": [
