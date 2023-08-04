@@ -7,7 +7,7 @@
     "defconfig": "vendor/kona-perf_defconfig"
   },
   "withKernelSU": true,
-"toolchains": [
+  "toolchains": [
   
     "repo": "https://github.com/kdrag0n/proton-clang",
     "branch": "master",
