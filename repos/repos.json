@@ -1,6 +1,6 @@
 [
   {
-    "kernelSource":[
+    "kernelSource":
     {
       "name": "GDSTK_Q5pro",
       "repo": "https://github.com/kai855/realme_GTneo2-Q5pro-GTMasterExploratory-AndroidT-kernel-source",
@@ -8,13 +8,6 @@
       "device": "RMX3372",
       "defconfig": "vendor/kona-perf_defconfig"
     },
-    {
-      "name": "GDSTK_Q5pro",
-      "repo": "https://github.com/realme-kernel-opensource/realme_GTneo2-Q5pro-GTMasterExploratory-AndroidT-vendor-source",
-      "branch": "master",
-      "device": "RMX3372",
-      }
-    ],
     "withKernelSU": true,
     "toolchains": [
       {
@@ -22,6 +15,11 @@
         "branch": "master",
         "name": "proton-clang",
         "binPath": ["./bin"]
+      },
+      {
+      "name": "GDSTK_Q5pro",
+      "repo": "https://github.com/realme-kernel-opensource/realme_GTneo2-Q5pro-GTMasterExploratory-AndroidT-vendor-source",
+      "branch": "master",
       }
     ],
     "ccache": true,
