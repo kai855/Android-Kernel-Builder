@@ -3,7 +3,7 @@
     "kernelSource": {
       "name": "GDSTK_Q5pro",
       "repo": "https://github.com/kai855/realme_q5pro",
-      "branch": "master",
+      "branch": "main",
       "device": "RMX3372",
       "defconfig": "vendor/kona-perf_defconfig"
     },
