@@ -1,4 +1,4 @@
-  {
+  [
     "kernelSource": {
        "name": "GDSTK-Q5pro",
        "repo": "https://github.com/kai855/realme_GTneo2-Q5pro-GTMasterExploratory-AndroidT-kernel-source",
@@ -41,4 +41,4 @@
       "repo": "https://github.com/easterNday/AnyKernel3/",
       "branch": "RMX3372"
     }
-  }
+  ]
