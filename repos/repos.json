@@ -4,8 +4,7 @@
     "repo": "https://github.com/kai855/realme_GTneo2-Q5pro-GTMasterExploratory-AndroidT-kernel-source",
     "branch": "master",
     "device": "RMX3372",
-    "defconfig": "vendor
-/kona-perf_defconfig"
+    "defconfig": "vendor/kona-perf_defconfig"
   },
   "withKernelSU": true,
 "toolchains": [
@@ -15,7 +14,7 @@
     "name": "proton-clang",
     "binPath": ["./bin"]
   
-]
+
     ],
     "ccache": false,
     "params": {
