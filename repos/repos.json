@@ -2,7 +2,7 @@
   {
     "kernelSource": {
       "name": "GDSTK_Q5pro",
-      "repo": "https://github.com/kai855/realme_GTneo2-Q5pro-GTMasterExploratory-AndroidT-kernel-source",
+      "repo": "https://github.com/kai855/realme_q5pro",
       "branch": "master",
       "device": "RMX3372",
       "defconfig": "vendor/kona-perf_defconfig"
