@@ -7,7 +7,7 @@
       "branch": "master",
       "device": "RMX3372",
       "defconfig": "vendor/kona-perf_defconfig"
-    },
+    }
     "withKernelSU": true,
     "toolchains": [
       {
