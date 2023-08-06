@@ -2,7 +2,7 @@
   {
     "kernelSource": {
       "name": "GDSTK_Q5pro",
-      "repo": "https://github.com/Blackmanx/kernel_realme_sm8250/tree/bigshot-AOSP",
+      "repo": "https://github.com/kai855/kernel_realme_sm8250",
       "branch": "bigshot-AOSP",
       "device": "RMX3372",
       "defconfig": "vendor/kona-perf_defconfig"
