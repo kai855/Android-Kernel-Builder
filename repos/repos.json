@@ -5,7 +5,7 @@
       "repo": "https://github.com/kai855/kernel_realme_sm8250",
       "branch": "bigshot-AOSP",
       "device": "RMX3372",
-      "defconfig": "vendor/kona-perf_defconfig"
+      "defconfig": "vendor/sm8250_defconfig"
     },
     "withKernelSU": true,
     "toolchains": [
