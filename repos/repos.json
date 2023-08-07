@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "xiaomi_9pro",
-      "repo": "https://github.com/kai855/Xiaomi_Kernel_9pro",
-      "branch": "crux-p-oss",
-      "device": "crux",
-      "defconfig": "crux_user_defconfig"
+      "name": "k30i",
+      "repo": "https://github.com/kai855/Xiaomi_Kernel_OpenSource",
+      "branch": "picasso-r-oss",
+      "device": "picasso",
+      "defconfig": "vendor/picasso_user_defconfig"
     },
     "withKernelSU": true,
     "toolchains": [
