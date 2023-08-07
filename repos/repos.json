@@ -3,7 +3,7 @@
     "kernelSource": {
       "name": "GDSTK_Q5pro",
       "repo": "https://github.com/kai855/kernel_realme_sm8250",
-      "branch": "bigshot-AOSP",
+      "branch": "bigshot",
       "device": "RMX3372",
       "defconfig": "vendor/kona-iot-perf_defconfig"
     },
