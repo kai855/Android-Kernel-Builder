@@ -1,7 +1,7 @@
 [
   {
     "kernelSource": {
-      "name": "xiaomi 9pro",
+      "name": "xiaomi_9pro",
       "repo": "https://github.com/kai855/Xiaomi_Kernel_OpenSource",
       "branch": "crux-p-oss",
       "device": "crux",
