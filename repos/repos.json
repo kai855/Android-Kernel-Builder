@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "GDSTK_Q5pro",
-      "repo": "https://github.com/kai855/kernel_realme_sm8250",
-      "branch": "bigshot",
-      "device": "RMX3372",
-      "defconfig": "vendor/sm8250_defconfig"
+      "name": "xiaomi 9pro",
+      "repo": "https://github.com/kai855/Xiaomi_Kernel_OpenSource",
+      "branch": "crux-p-oss",
+      "device": "crux",
+      "defconfig": "crux_user_defconfig"
     },
     "withKernelSU": true,
     "toolchains": [
