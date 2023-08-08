@@ -35,7 +35,7 @@
         "LLVM_AR": "proton-clang/bin/llvm-ar",
         "LLVM_DIS": "proton-clang/bin/llvm-dis"
       }
-    ],
+    },
     "ccache": true,
     "params": {
       "ARCH": "arm64",
