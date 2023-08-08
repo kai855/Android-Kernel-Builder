@@ -36,17 +36,6 @@
         "LLVM_DIS": "proton-clang/bin/llvm-dis"
       }
     },
-    "ccache": true,
-    "params": {
-      "ARCH": "arm64",
-      "CC": "clang/bin/clang",
-      "externalCommand": {
-        "CROSS_COMPILE": "aarch64-linux-gnu-",
-        "CROSS_COMPILE_ARM32": "arm-linux-gnueabi-",
-        "CROSS_COMPILE_COMPAT": "arm-linux-gnueabi-",
-        "CLANG_TRIPLE": "aarch64-linux-gnu-"
-      }
-    },
     "AnyKernel3": {
       "use": true,
       "release": true,
