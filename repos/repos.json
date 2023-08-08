@@ -2,10 +2,10 @@
   {
     "kernelSource": {
       "name": "MIPAD5PRO12.4",
-      "repo": "https://github.com/kai855/Xiaomi_Kernel_OpenSource",
-      "branch": "dagu-s-oss",
-      "device": "dagu",
-      "defconfig": "dagu_user_defconfig"
+      "repo": "https://github.com/kai855/android_kernel_xiaomi_oxygen/",
+      "branch": "lineage-20.0",
+      "device": "oxygen",
+      "defconfig": "oxygen_defconfig"
     },
     "withKernelSU": true,
     "toolchains": [
