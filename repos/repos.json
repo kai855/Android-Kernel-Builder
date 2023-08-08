@@ -1,7 +1,7 @@
 [
   {
     "kernelSource": {
-      "name": "k20PRO",
+      "name": "MIPAD5PRO12.4",
       "repo": "https://github.com/kai855/Xiaomi_Kernel_OpenSource",
       "branch": "dagu-s-oss",
       "device": "dagu",
