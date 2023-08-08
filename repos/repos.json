@@ -8,7 +8,7 @@
       "defconfig": "raphael_user_defconfig"
     },
     "withKernelSU": true,
-"toolchains": [,
+"toolchains": [
   {
     "repo": "https://gitlab.com/ThankYouMario/android_prebuilts_clang-standalone/",
     "branch": "11",
@@ -20,8 +20,7 @@
     "name": "gcc",
     "binPath": ["bin"]
   }
-]
-    ],
+],
 "ccache": true,
     "params": {
       "ARCH": "arm64",
