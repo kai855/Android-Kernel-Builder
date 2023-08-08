@@ -1,7 +1,7 @@
 [
   {
     "kernelSource": {
-      "name": "k30i",
+      "name": "k20PRO",
       "repo": "https://github.com/kai855/Xiaomi_Kernel_OpenSource",
       "branch": "cepheus-q-oss",
       "device": "cepheus",
