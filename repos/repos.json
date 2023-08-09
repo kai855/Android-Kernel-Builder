@@ -1,9 +1,9 @@
 [
   {
     "kernelSource": {
-      "name": "MIPAD5PRO12.4",
-      "repo": "https://github.com/kai855/android_kernel_xiaomi_oxygen/",
-      "branch": "lineage-20.0",
+      "name": "MAX2",
+      "repo": "https://github.com/kai855/kernel_xiaomi_oxygen",
+      "branch": "thirteen",
       "device": "oxygen",
       "defconfig": "oxygen_defconfig"
     },
