@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "x7pro",
-      "repo": "https://github.com/kai855/realme_X7_X7Pro_X7ProExtreme_X7-5G_Q2Pro_V15_V5_Q2_Narzo30pro-5G_7-5G-AndroidS-kernel-source",
-      "branch": "master",
-      "device": "k85v1",
-      "defconfig": "k85v1_64_defconfig"
+      "name": "gt_neo3",
+      "repo": "https://github.com/v4lkyr/kernel_rmx3560",
+      "branch": "gtneo3-5.10-androidT",
+      "device": "rmx3560",
+      "defconfig": "defconfig"
     },
     "withKernelSU": true,
     "toolchains": [
