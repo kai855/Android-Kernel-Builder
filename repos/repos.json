@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "MAX2",
-      "repo": "https://github.com/kai855/kernel_xiaomi_oxygen",
-      "branch": "thirteen",
-      "device": "oxygen",
-      "defconfig": "oxygen_defconfig"
+      "name": "x7pro",
+      "repo": "https://github.com/kai855/realme_X7_X7Pro_X7ProExtreme_X7-5G_Q2Pro_V15_V5_Q2_Narzo30pro-5G_7-5G-AndroidS-kernel-source",
+      "branch": "master",
+      "device": "k85v1",
+      "defconfig": "k85v1_64_defconfig"
     },
     "withKernelSU": true,
     "toolchains": [
